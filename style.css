@@ -69,7 +69,7 @@ body {
     color: #fff;
     font-size: 22px;
     margin-bottom: 12px;
-    display: block;
+    display: inline-block;
     transition: color 0.15s;
 }
 
@@ -86,8 +86,8 @@ body {
 }
 
 .nft-pricing {
-    margin: 16px 0;
-    padding-bottom: 16px;
+    margin: 15px 0;
+    padding-bottom: 15px;
     display: flex;
     justify-content: space-between;
     border-bottom: 1px solid #2e405a;
