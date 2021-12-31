@@ -137,3 +137,22 @@ body {
     cursor: pointer;
     color: #00fff8;
 }
+
+@media(min-width: 398px) {
+    body {
+        padding: 50px 24px;
+    }
+    
+    .card {
+        padding-bottom: 32px;
+    }
+
+    .nft-link {
+        margin-bottom: 16px;
+    }
+    
+    .nft-pricing {
+        margin: 24px 0 16px 0;
+        padding-bottom: 23px;
+    }
+}
